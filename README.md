@@ -11,7 +11,7 @@
 </p>
 
 - 🏢 A Junior .Net Full Stack web developer
-- 🎓 A CS student @ the faculty of Computing and Data Science (alexandria)
+- 🎓 A third year student @ the faculty of Computing and Data Science (alexandria)
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
 - 💬 Have experince with <strong>C#, SQL Server and Asp.net Core</strong>
 
