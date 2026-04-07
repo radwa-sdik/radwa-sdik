@@ -10,8 +10,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20.Net%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 🏢 A Junior .Net Full Stack web developer
-- 🎓 A fourth year student @ the faculty of Computing and Data Science (alexandria)
+- 🏢 A Junior .NET Full Stack web developer
+- 🎓 A fourth-year student @ the faculty of Computers and Data Science (Alexandria)
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
 - 💬 Have experince with <strong>C#, SQL Server, EF, Asp.net Core and Angular</strong>
 
